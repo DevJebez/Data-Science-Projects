@@ -1,2 +1,7 @@
 House[[:space:]]price[[:space:]]prediction/model filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+mission-data-impossible/cleaned_train_dataset filter=lfs diff=lfs merge=lfs -text
+mission-data-impossible/DMI_test_user.csv filter=lfs diff=lfs merge=lfs -text
+mission-data-impossible/DMI_train.csv filter=lfs diff=lfs merge=lfs -text
+mission-data-impossible/output.csv filter=lfs diff=lfs merge=lfs -text
+mission-data-impossible/sample_dmi.csv filter=lfs diff=lfs merge=lfs -text
